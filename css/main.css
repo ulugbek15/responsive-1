@@ -170,4 +170,17 @@
     margin-right: 0;
   }
 }
+
+.our-collection__title {
+  font-family: sans-serif;
+  font-weight: 900;
+  margin-top: 50px;
+  font-size: 150px;
+  color: #83888F;
+  text-align: center;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(72, 83, 83, 0.7)), to(#FEFCF7));
+  background: linear-gradient(180deg, rgba(72, 83, 83, 0.7) 0%, #FEFCF7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 /*# sourceMappingURL=main.css.map */
